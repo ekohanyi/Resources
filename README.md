@@ -7,7 +7,7 @@ Resources I find helpful/go back to often
 - [react](https://reactjs.org/docs/hello-world.html)
 - [redux](https://redux.js.org/)
 
-#### Base utils
+#### Base Level Utils
 - [react-router](https://reacttraining.com/react-router/web/guides/philosophy)
 - [redux-thunk](https://github.com/gaearon/redux-thunk)
 - [axios](https://github.com/axios/axios)
@@ -21,7 +21,8 @@ Resources I find helpful/go back to often
 - [react-virtualized](https://bvaughn.github.io/react-virtualized/#/components/List)
 - [react-modal](http://reactcommunity.org/react-modal/)
 
-#### Tutorials / Concepts
+#### Tutorials / Concepts / Resources
+- [awesome-react-components](https://github.com/brillout/awesome-react-components)
 - [Redux Explanation Graphic](http://i.imgur.com/DUiL9yn.png)
 - [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 - [Nested Routes - React Router](https://tylermcginnis.com/react-router-nested-routes/)
