@@ -1,7 +1,7 @@
 # Resources
 Resources I find helpful/go back to often
 
-### React Libraries/Frameworks/Plugins
+### React
 
 #### Base Level
 - [react](https://reactjs.org/docs/hello-world.html)
