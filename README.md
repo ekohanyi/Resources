@@ -11,6 +11,7 @@ Resources I find helpful/go back to often
 - [react-router](https://reacttraining.com/react-router/web/guides/philosophy)
 - [redux-thunk](https://github.com/gaearon/redux-thunk)
 - [axios](https://github.com/axios/axios)
+- [Single-spa]* (https://single-spa.surge.sh/)
 
 #### Kits
 - [rekit](http://rekit.js.org/docs/styling.html)
@@ -28,4 +29,6 @@ Resources I find helpful/go back to often
 - [Nested Routes - React Router](https://tylermcginnis.com/react-router-nested-routes/)
 - [Feature Oriented Architecture](https://medium.com/@nate_wang/feature-oriented-architecture-for-web-applications-2b48e358afb0)
 - [One Action Per File](https://medium.com/@nate_wang/a-new-approach-for-managing-redux-actions-91c26ce8b5da)
+- [Micro Front Ends]* (https://micro-frontends.org/)
 
+* - found by @cs-manughian
