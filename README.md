@@ -31,4 +31,4 @@ Resources I find helpful/go back to often
 - [One Action Per File](https://medium.com/@nate_wang/a-new-approach-for-managing-redux-actions-91c26ce8b5da)
 - [Micro Front Ends](https://micro-frontends.org/)*
 
-* - found by @cs-manughian
+\* \- found by [@cs-manughian](https://github.com/cs-manughian)
