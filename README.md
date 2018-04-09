@@ -30,5 +30,6 @@ Resources I find helpful/go back to often
 - [Feature Oriented Architecture](https://medium.com/@nate_wang/feature-oriented-architecture-for-web-applications-2b48e358afb0)
 - [One Action Per File](https://medium.com/@nate_wang/a-new-approach-for-managing-redux-actions-91c26ce8b5da)
 - [Micro Front Ends](https://micro-frontends.org/)*
+- [Building Micro Front Ends Tutorial](https://medium.com/@_rchaves_/building-microfrontends-part-i-creating-small-apps-710d709b48b7)
 
 \* \- found by [@cs-manughian](https://github.com/cs-manughian)
