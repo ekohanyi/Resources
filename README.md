@@ -11,6 +11,7 @@ Resources I find helpful/go back to often
 - [react-router](https://reacttraining.com/react-router/web/guides/philosophy)
 - [redux-thunk](https://github.com/gaearon/redux-thunk)
 - [axios](https://github.com/axios/axios)
+- [CDN in Webpack](https://www.npmjs.com/package/webpack-require-http)
 - [Single-spa](https://single-spa.surge.sh/)*
 
 #### Kits
