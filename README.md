@@ -34,3 +34,6 @@ Resources I find helpful/go back to often
 - [Building Micro Front Ends Tutorial](https://medium.com/@_rchaves_/building-microfrontends-part-i-creating-small-apps-710d709b48b7)
 
 \* \- found by [@cs-manughian](https://github.com/cs-manughian)
+
+### Server Side React
+- [Server Side Rendering with React Router](https://tylermcginnis.com/react-router-server-rendering/)
