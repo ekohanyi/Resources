@@ -33,8 +33,13 @@ Resources I find helpful/go back to often
 - [Micro Front Ends](https://micro-frontends.org/)*
 - [Building Micro Front Ends Tutorial](https://medium.com/@_rchaves_/building-microfrontends-part-i-creating-small-apps-710d709b48b7)
 - [Flow vs Typescript](https://medium.com/the-web-tub/comparing-flow-with-typescript-6a8ff7fd4cbb)
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
-\* \- found by [@cs-manughian](https://github.com/cs-manughian)
+#### Testing
+- ['Right Way' to Test](https://medium.freecodecamp.org/the-right-way-to-test-react-components-548a4736ab22)
+- [Comprehensive Overview of Testing (Day 22-26)](https://www.fullstackreact.com/30-days-of-react/day-22/)
 
 ### Server Side React
 - [Server Side Rendering with React Router](https://tylermcginnis.com/react-router-server-rendering/)
+
+\* \- found by [@cs-manughian](https://github.com/cs-manughian)
