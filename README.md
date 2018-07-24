@@ -32,6 +32,7 @@ Resources I find helpful/go back to often
 - [One Action Per File](https://medium.com/@nate_wang/a-new-approach-for-managing-redux-actions-91c26ce8b5da)
 - [Micro Front Ends](https://micro-frontends.org/)*
 - [Building Micro Front Ends Tutorial](https://medium.com/@_rchaves_/building-microfrontends-part-i-creating-small-apps-710d709b48b7)
+- [Flow vs Typescript](https://medium.com/the-web-tub/comparing-flow-with-typescript-6a8ff7fd4cbb)
 
 \* \- found by [@cs-manughian](https://github.com/cs-manughian)
 
